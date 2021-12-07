@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MemorygameReact/static/css/main.0190466f.chunk.css",
+    "main.js": "/MemorygameReact/static/js/main.ca27b6dd.chunk.js",
+    "main.js.map": "/MemorygameReact/static/js/main.ca27b6dd.chunk.js.map",
+    "runtime-main.js": "/MemorygameReact/static/js/runtime-main.19b4df00.js",
+    "runtime-main.js.map": "/MemorygameReact/static/js/runtime-main.19b4df00.js.map",
+    "static/js/2.4bd328cf.chunk.js": "/MemorygameReact/static/js/2.4bd328cf.chunk.js",
+    "static/js/2.4bd328cf.chunk.js.map": "/MemorygameReact/static/js/2.4bd328cf.chunk.js.map",
+    "index.html": "/MemorygameReact/index.html",
+    "static/css/main.0190466f.chunk.css.map": "/MemorygameReact/static/css/main.0190466f.chunk.css.map",
+    "static/js/2.4bd328cf.chunk.js.LICENSE.txt": "/MemorygameReact/static/js/2.4bd328cf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19b4df00.js",
+    "static/js/2.4bd328cf.chunk.js",
+    "static/css/main.0190466f.chunk.css",
+    "static/js/main.ca27b6dd.chunk.js"
+  ]
+}
